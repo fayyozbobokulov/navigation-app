@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^16.9.1",
+    "@types/uuidv4": "^5.0.0",
+    "@types/ws": "^7.4.7",
+    "uuidv4": "^6.2.12",
+    "ws": "^8.2.2"
+  }
+}
